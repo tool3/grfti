@@ -1,0 +1,60 @@
+{
+  "name": "badaboom",
+  "version": "0.2.0",
+  "description": "Pretty terminal color and gradients. Type-safe, zero-dependency, oklab-smooth.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    }
+  },
+  "files": [
+    "./dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+  },
+  "keywords": [
+    "gradient",
+    "gradient-string",
+    "color",
+    "colors",
+    "terminal",
+    "ansi",
+    "truecolor",
+    "oklab",
+    "cli",
+    "chalk",
+    "typescript"
+  ],
+  "author": "Tal Hayut",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tool3/badaboom"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "tsup": "^8.5.1",
+    "typescript": "^5.6.2",
+    "vitest": "^4.0.18"
+  }
+}
