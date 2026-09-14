@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795.6 652.3" width="795.6" height="652.3">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d4ff"/>
+      <stop offset="50%" stop-color="#519cff"/>
+      <stop offset="100%" stop-color="#635bff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="795.6" height="652.3" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="707.6" height="564.3" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="353.8" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — painting the background</text>
+    </g>
+    <g class="backgrounds">
+      <rect x="38.8" y="143.2" width="8.4" height="20.3" fill="#00d4ff"/>
+      <rect x="47.2" y="143.2" width="8.4" height="20.3" fill="#0bd2ff"/>
+      <rect x="55.6" y="143.2" width="8.4" height="20.3" fill="#14d0ff"/>
+      <rect x="64" y="143.2" width="8.4" height="20.3" fill="#1aceff"/>
+      <rect x="72.4" y="143.2" width="8.4" height="20.3" fill="#1fccff"/>
+      <rect x="80.8" y="143.2" width="8.4" height="20.3" fill="#24caff"/>
+      <rect x="89.2" y="143.2" width="8.4" height="20.3" fill="#28c8ff"/>
+      <rect x="97.6" y="143.2" width="8.4" height="20.3" fill="#2cc6ff"/>
+      <rect x="106" y="143.2" width="8.4" height="20.3" fill="#2fc5ff"/>
+      <rect x="114.4" y="143.2" width="8.4" height="20.3" fill="#32c3ff"/>
+      <rect x="122.8" y="143.2" width="8.4" height="20.3" fill="#35c1ff"/>
+      <rect x="131.2" y="143.2" width="8.4" height="20.3" fill="#37bfff"/>
+      <rect x="139.6" y="143.2" width="8.4" height="20.3" fill="#3abdff"/>
+      <rect x="148" y="143.2" width="8.4" height="20.3" fill="#3cbbff"/>
+      <rect x="156.4" y="143.2" width="8.4" height="20.3" fill="#3eb9ff"/>
+      <rect x="164.8" y="143.2" width="8.4" height="20.3" fill="#40b7ff"/>
+      <rect x="173.2" y="143.2" width="8.4" height="20.3" fill="#41b5ff"/>
+      <rect x="181.6" y="143.2" width="8.4" height="20.3" fill="#43b3ff"/>
+      <rect x="190" y="143.2" width="8.4" height="20.3" fill="#44b1ff"/>
+      <rect x="198.4" y="143.2" width="8.4" height="20.3" fill="#46afff"/>
+      <rect x="206.8" y="143.2" width="8.4" height="20.3" fill="#47adff"/>
+      <rect x="215.2" y="143.2" width="8.4" height="20.3" fill="#49abff"/>
+      <rect x="223.6" y="143.2" width="8.4" height="20.3" fill="#4aa9ff"/>
+      <rect x="232" y="143.2" width="8.4" height="20.3" fill="#4ba7ff"/>
+      <rect x="240.4" y="143.2" width="8.4" height="20.3" fill="#4ca5ff"/>
+      <rect x="248.8" y="143.2" width="8.4" height="20.3" fill="#4ea3ff"/>
+      <rect x="257.2" y="143.2" width="8.4" height="20.3" fill="#4fa1ff"/>
+      <rect x="265.6" y="143.2" width="8.4" height="20.3" fill="#509fff"/>
+      <rect x="274" y="143.2" width="8.4" height="20.3" fill="#519dff"/>
+      <rect x="282.4" y="143.2" width="8.4" height="20.3" fill="#529bff"/>
+      <rect x="290.8" y="143.2" width="8.4" height="20.3" fill="#5399ff"/>
+      <rect x="299.2" y="143.2" width="8.4" height="20.3" fill="#5397ff"/>
+      <rect x="307.6" y="143.2" width="8.4" height="20.3" fill="#5495ff"/>
+      <rect x="316" y="143.2" width="8.4" height="20.3" fill="#5593ff"/>
+      <rect x="324.4" y="143.2" width="8.4" height="20.3" fill="#5691ff"/>
+      <rect x="332.8" y="143.2" width="8.4" height="20.3" fill="#578eff"/>
+      <rect x="341.2" y="143.2" width="8.4" height="20.3" fill="#578cff"/>
+      <rect x="349.6" y="143.2" width="8.4" height="20.3" fill="#588aff"/>
+      <rect x="358" y="143.2" width="8.4" height="20.3" fill="#5988ff"/>
+      <rect x="366.4" y="143.2" width="8.4" height="20.3" fill="#5a86ff"/>
+      <rect x="374.8" y="143.2" width="8.4" height="20.3" fill="#5a84ff"/>
+      <rect x="383.2" y="143.2" width="8.4" height="20.3" fill="#5b82ff"/>
+      <rect x="391.6" y="143.2" width="8.4" height="20.3" fill="#5b7fff"/>
+      <rect x="400" y="143.2" width="8.4" height="20.3" fill="#5c7dff"/>
+      <rect x="408.4" y="143.2" width="8.4" height="20.3" fill="#5d7bff"/>
+      <rect x="416.8" y="143.2" width="8.4" height="20.3" fill="#5d79ff"/>
+      <rect x="425.2" y="143.2" width="8.4" height="20.3" fill="#5e76ff"/>
+      <rect x="433.6" y="143.2" width="8.4" height="20.3" fill="#5e74ff"/>
+      <rect x="442" y="143.2" width="8.4" height="20.3" fill="#5f72ff"/>
+      <rect x="450.4" y="143.2" width="8.4" height="20.3" fill="#5f6fff"/>
+      <rect x="458.8" y="143.2" width="8.4" height="20.3" fill="#606dff"/>
+      <rect x="467.2" y="143.2" width="8.4" height="20.3" fill="#606aff"/>
+      <rect x="475.6" y="143.2" width="8.4" height="20.3" fill="#6168ff"/>
+      <rect x="484" y="143.2" width="8.4" height="20.3" fill="#6165ff"/>
+      <rect x="492.4" y="143.2" width="8.4" height="20.3" fill="#6263ff"/>
+      <rect x="500.8" y="143.2" width="8.4" height="20.3" fill="#6260ff"/>
+      <rect x="509.2" y="143.2" width="8.4" height="20.3" fill="#635eff"/>
+      <rect x="517.6" y="143.2" width="8.4" height="20.3" fill="#635bff"/>
+      <rect x="38.8" y="204.1" width="8.4" height="20.3" fill="#635bff"/>
+      <rect x="47.2" y="204.1" width="8.4" height="20.3" fill="#635eff"/>
+      <rect x="55.6" y="204.1" width="8.4" height="20.3" fill="#6260ff"/>
+      <rect x="64" y="204.1" width="8.4" height="20.3" fill="#6263ff"/>
+      <rect x="72.4" y="204.1" width="8.4" height="20.3" fill="#6165ff"/>
+      <rect x="80.8" y="204.1" width="8.4" height="20.3" fill="#6168ff"/>
+      <rect x="89.2" y="204.1" width="8.4" height="20.3" fill="#606aff"/>
+      <rect x="97.6" y="204.1" width="8.4" height="20.3" fill="#606dff"/>
+      <rect x="106" y="204.1" width="8.4" height="20.3" fill="#5f6fff"/>
+      <rect x="114.4" y="204.1" width="8.4" height="20.3" fill="#5f72ff"/>
+      <rect x="122.8" y="204.1" width="8.4" height="20.3" fill="#5e74ff"/>
+      <rect x="131.2" y="204.1" width="8.4" height="20.3" fill="#5e76ff"/>
+      <rect x="139.6" y="204.1" width="8.4" height="20.3" fill="#5d79ff"/>
+      <rect x="148" y="204.1" width="8.4" height="20.3" fill="#5d7bff"/>
+      <rect x="156.4" y="204.1" width="8.4" height="20.3" fill="#5c7dff"/>
+      <rect x="164.8" y="204.1" width="8.4" height="20.3" fill="#5b7fff"/>
+      <rect x="173.2" y="204.1" width="8.4" height="20.3" fill="#5b82ff"/>
+      <rect x="181.6" y="204.1" width="8.4" height="20.3" fill="#5a84ff"/>
+      <rect x="190" y="204.1" width="8.4" height="20.3" fill="#5a86ff"/>
+      <rect x="198.4" y="204.1" width="8.4" height="20.3" fill="#5988ff"/>
+      <rect x="206.8" y="204.1" width="8.4" height="20.3" fill="#588aff"/>
+      <rect x="215.2" y="204.1" width="8.4" height="20.3" fill="#578cff"/>
+      <rect x="223.6" y="204.1" width="8.4" height="20.3" fill="#578eff"/>
+      <rect x="232" y="204.1" width="8.4" height="20.3" fill="#5691ff"/>
+      <rect x="240.4" y="204.1" width="8.4" height="20.3" fill="#5593ff"/>
+      <rect x="248.8" y="204.1" width="8.4" height="20.3" fill="#5495ff"/>
+      <rect x="257.2" y="204.1" width="8.4" height="20.3" fill="#5397ff"/>
+      <rect x="265.6" y="204.1" width="8.4" height="20.3" fill="#5399ff"/>
+      <rect x="274" y="204.1" width="8.4" height="20.3" fill="#529bff"/>
+      <rect x="282.4" y="204.1" width="8.4" height="20.3" fill="#519dff"/>
+      <rect x="290.8" y="204.1" width="8.4" height="20.3" fill="#509fff"/>
+      <rect x="299.2" y="204.1" width="8.4" height="20.3" fill="#4fa1ff"/>
+      <rect x="307.6" y="204.1" width="8.4" height="20.3" fill="#4ea3ff"/>
+      <rect x="316" y="204.1" width="8.4" height="20.3" fill="#4ca5ff"/>
+      <rect x="324.4" y="204.1" width="8.4" height="20.3" fill="#4ba7ff"/>
+      <rect x="332.8" y="204.1" width="8.4" height="20.3" fill="#4aa9ff"/>
+      <rect x="341.2" y="204.1" width="8.4" height="20.3" fill="#49abff"/>
+      <rect x="349.6" y="204.1" width="8.4" height="20.3" fill="#47adff"/>
+      <rect x="358" y="204.1" width="8.4" height="20.3" fill="#46afff"/>
+      <rect x="366.4" y="204.1" width="8.4" height="20.3" fill="#44b1ff"/>
+      <rect x="374.8" y="204.1" width="8.4" height="20.3" fill="#43b3ff"/>
+      <rect x="383.2" y="204.1" width="8.4" height="20.3" fill="#41b5ff"/>
+      <rect x="391.6" y="204.1" width="8.4" height="20.3" fill="#40b7ff"/>
+      <rect x="400" y="204.1" width="8.4" height="20.3" fill="#3eb9ff"/>
+      <rect x="408.4" y="204.1" width="8.4" height="20.3" fill="#3cbbff"/>
+      <rect x="416.8" y="204.1" width="8.4" height="20.3" fill="#3abdff"/>
+      <rect x="425.2" y="204.1" width="8.4" height="20.3" fill="#37bfff"/>
+      <rect x="433.6" y="204.1" width="8.4" height="20.3" fill="#35c1ff"/>
+      <rect x="442" y="204.1" width="8.4" height="20.3" fill="#32c3ff"/>
+      <rect x="450.4" y="204.1" width="8.4" height="20.3" fill="#2fc5ff"/>
+      <rect x="458.8" y="204.1" width="8.4" height="20.3" fill="#2cc6ff"/>
+      <rect x="467.2" y="204.1" width="8.4" height="20.3" fill="#28c8ff"/>
+      <rect x="475.6" y="204.1" width="8.4" height="20.3" fill="#24caff"/>
+      <rect x="484" y="204.1" width="8.4" height="20.3" fill="#1fccff"/>
+      <rect x="492.4" y="204.1" width="8.4" height="20.3" fill="#1aceff"/>
+      <rect x="500.8" y="204.1" width="8.4" height="20.3" fill="#14d0ff"/>
+      <rect x="509.2" y="204.1" width="8.4" height="20.3" fill="#0bd2ff"/>
+      <rect x="517.6" y="204.1" width="8.4" height="20.3" fill="#00d4ff"/>
+      <rect x="38.8" y="285.3" width="487.2" height="20.3" fill="#00d4ff"/>
+      <rect x="38.8" y="305.6" width="487.2" height="20.3" fill="#3eb8ff"/>
+      <rect x="38.8" y="325.9" width="487.2" height="20.3" fill="#519cff"/>
+      <rect x="38.8" y="346.2" width="487.2" height="20.3" fill="#5c7eff"/>
+      <rect x="38.8" y="366.5" width="487.2" height="20.3" fill="#635bff"/>
+      <rect x="38.8" y="447.7" width="487.2" height="20.3" fill="#ff2e97"/>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  .bg paints behind the text instead of the glyphs</tspan></text>
+      <text y="96.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#5ee7df">❯</tspan><tspan x="47.2" fill="#c9d1d9"> </tspan><tspan x="55.6" fill="#767676">const brand = gradient(&#39;#00d4ff&#39;, &#39;#635bff&#39;)</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.bg</tspan></text>
+      <text y="157.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> </tspan><tspan x="47.2" fill="#c9d1d9">d</tspan><tspan x="55.6" fill="#c9d1d9">e</tspan><tspan x="64" fill="#c9d1d9">p</tspan><tspan x="72.4" fill="#c9d1d9">l</tspan><tspan x="80.8" fill="#c9d1d9">o</tspan><tspan x="89.2" fill="#c9d1d9">y</tspan><tspan x="97.6" fill="#c9d1d9">i</tspan><tspan x="106" fill="#c9d1d9">n</tspan><tspan x="114.4" fill="#c9d1d9">g</tspan><tspan x="122.8" fill="#c9d1d9"> </tspan><tspan x="131.2" fill="#c9d1d9">t</tspan><tspan x="139.6" fill="#c9d1d9">o</tspan><tspan x="148" fill="#c9d1d9"> </tspan><tspan x="156.4" fill="#c9d1d9">p</tspan><tspan x="164.8" fill="#c9d1d9">r</tspan><tspan x="173.2" fill="#c9d1d9">o</tspan><tspan x="181.6" fill="#c9d1d9">d</tspan><tspan x="190" fill="#c9d1d9">u</tspan><tspan x="198.4" fill="#c9d1d9">c</tspan><tspan x="206.8" fill="#c9d1d9">t</tspan><tspan x="215.2" fill="#c9d1d9">i</tspan><tspan x="223.6" fill="#c9d1d9">o</tspan><tspan x="232" fill="#c9d1d9">n</tspan><tspan x="240.4" fill="#c9d1d9"> </tspan><tspan x="248.8" fill="#c9d1d9"> </tspan><tspan x="257.2" fill="#c9d1d9"> </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#c9d1d9"> </tspan><tspan x="282.4" fill="#c9d1d9"> </tspan><tspan x="290.8" fill="#c9d1d9"> </tspan><tspan x="299.2" fill="#c9d1d9"> </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#c9d1d9"> </tspan><tspan x="324.4" fill="#c9d1d9"> </tspan><tspan x="332.8" fill="#c9d1d9"> </tspan><tspan x="341.2" fill="#c9d1d9"> </tspan><tspan x="349.6" fill="#c9d1d9"> </tspan><tspan x="358" fill="#c9d1d9"> </tspan><tspan x="366.4" fill="#c9d1d9"> </tspan><tspan x="374.8" fill="#c9d1d9"> </tspan><tspan x="383.2" fill="#c9d1d9"> </tspan><tspan x="391.6" fill="#c9d1d9"> </tspan><tspan x="400" fill="#c9d1d9"> </tspan><tspan x="408.4" fill="#c9d1d9"> </tspan><tspan x="416.8" fill="#c9d1d9"> </tspan><tspan x="425.2" fill="#c9d1d9"> </tspan><tspan x="433.6" fill="#c9d1d9"> </tspan><tspan x="442" fill="#c9d1d9"> </tspan><tspan x="450.4" fill="#c9d1d9"> </tspan><tspan x="458.8" fill="#c9d1d9"> </tspan><tspan x="467.2" fill="#c9d1d9"> </tspan><tspan x="475.6" fill="#c9d1d9"> </tspan><tspan x="484" fill="#c9d1d9"> </tspan><tspan x="492.4" fill="#c9d1d9"> </tspan><tspan x="500.8" fill="#c9d1d9"> </tspan><tspan x="509.2" fill="#c9d1d9"> </tspan><tspan x="517.6" fill="#c9d1d9"> </tspan></text>
+      <text y="197.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.reverse.bg</tspan></text>
+      <text y="218.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> </tspan><tspan x="47.2" fill="#c9d1d9">r</tspan><tspan x="55.6" fill="#c9d1d9">o</tspan><tspan x="64" fill="#c9d1d9">l</tspan><tspan x="72.4" fill="#c9d1d9">l</tspan><tspan x="80.8" fill="#c9d1d9">i</tspan><tspan x="89.2" fill="#c9d1d9">n</tspan><tspan x="97.6" fill="#c9d1d9">g</tspan><tspan x="106" fill="#c9d1d9"> </tspan><tspan x="114.4" fill="#c9d1d9">b</tspan><tspan x="122.8" fill="#c9d1d9">a</tspan><tspan x="131.2" fill="#c9d1d9">c</tspan><tspan x="139.6" fill="#c9d1d9">k</tspan><tspan x="148" fill="#c9d1d9"> </tspan><tspan x="156.4" fill="#c9d1d9"> </tspan><tspan x="164.8" fill="#c9d1d9"> </tspan><tspan x="173.2" fill="#c9d1d9"> </tspan><tspan x="181.6" fill="#c9d1d9"> </tspan><tspan x="190" fill="#c9d1d9"> </tspan><tspan x="198.4" fill="#c9d1d9"> </tspan><tspan x="206.8" fill="#c9d1d9"> </tspan><tspan x="215.2" fill="#c9d1d9"> </tspan><tspan x="223.6" fill="#c9d1d9"> </tspan><tspan x="232" fill="#c9d1d9"> </tspan><tspan x="240.4" fill="#c9d1d9"> </tspan><tspan x="248.8" fill="#c9d1d9"> </tspan><tspan x="257.2" fill="#c9d1d9"> </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#c9d1d9"> </tspan><tspan x="282.4" fill="#c9d1d9"> </tspan><tspan x="290.8" fill="#c9d1d9"> </tspan><tspan x="299.2" fill="#c9d1d9"> </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#c9d1d9"> </tspan><tspan x="324.4" fill="#c9d1d9"> </tspan><tspan x="332.8" fill="#c9d1d9"> </tspan><tspan x="341.2" fill="#c9d1d9"> </tspan><tspan x="349.6" fill="#c9d1d9"> </tspan><tspan x="358" fill="#c9d1d9"> </tspan><tspan x="366.4" fill="#c9d1d9"> </tspan><tspan x="374.8" fill="#c9d1d9"> </tspan><tspan x="383.2" fill="#c9d1d9"> </tspan><tspan x="391.6" fill="#c9d1d9"> </tspan><tspan x="400" fill="#c9d1d9"> </tspan><tspan x="408.4" fill="#c9d1d9"> </tspan><tspan x="416.8" fill="#c9d1d9"> </tspan><tspan x="425.2" fill="#c9d1d9"> </tspan><tspan x="433.6" fill="#c9d1d9"> </tspan><tspan x="442" fill="#c9d1d9"> </tspan><tspan x="450.4" fill="#c9d1d9"> </tspan><tspan x="458.8" fill="#c9d1d9"> </tspan><tspan x="467.2" fill="#c9d1d9"> </tspan><tspan x="475.6" fill="#c9d1d9"> </tspan><tspan x="484" fill="#c9d1d9"> </tspan><tspan x="492.4" fill="#c9d1d9"> </tspan><tspan x="500.8" fill="#c9d1d9"> </tspan><tspan x="509.2" fill="#c9d1d9"> </tspan><tspan x="517.6" fill="#c9d1d9"> </tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  vertical, so every line gets its own band</tspan></text>
+      <text y="279" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.vertical.bg</tspan></text>
+      <text y="299.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> BUILD                                                    </tspan></text>
+      <text y="319.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> TEST                                                     </tspan></text>
+      <text y="339.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> SIGN                                                     </tspan></text>
+      <text y="360.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> UPLOAD                                                   </tspan></text>
+      <text y="380.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> RELEASE                                                  </tspan></text>
+      <text y="421.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  a single color works the same way</tspan></text>
+      <text y="441.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">color(&#39;#ff2e97&#39;).bg</tspan></text>
+      <text y="461.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#c9d1d9"> one solid color                                          </tspan></text>
+      <text y="482" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">foreground and background compose — paint the text, then the block it sits in</tspan></text>
+    </g>
+    <text y="542.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="589.6" fill="#767676">grfti + shellfie</tspan></text>
+  </g>
+</svg>

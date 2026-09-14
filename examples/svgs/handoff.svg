@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 829.2 713.2" width="829.2" height="713.2">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4285f4"/>
+      <stop offset="50%" stop-color="#9b72cb"/>
+      <stop offset="100%" stop-color="#d96570"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="829.2" height="713.2" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="741.2" height="625.2" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="370.6" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — css, svg and round-trips</text>
+    </g>
+    <g class="glyphs">
+      <rect x="274" y="488.3" width="8.4" height="20.3" fill="#ff7a59" shape-rendering="crispEdges"/>
+      <rect x="282.4" y="488.3" width="8.4" height="20.3" fill="#fc7a5f" shape-rendering="crispEdges"/>
+      <rect x="290.8" y="488.3" width="8.4" height="20.3" fill="#f87965" shape-rendering="crispEdges"/>
+      <rect x="299.2" y="488.3" width="8.4" height="20.3" fill="#f5796b" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="488.3" width="8.4" height="20.3" fill="#f17970" shape-rendering="crispEdges"/>
+      <rect x="316" y="488.3" width="8.4" height="20.3" fill="#ee7876" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="488.3" width="8.4" height="20.3" fill="#ea787b" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="488.3" width="8.4" height="20.3" fill="#e7777f" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="488.3" width="8.4" height="20.3" fill="#e37784" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="488.3" width="8.4" height="20.3" fill="#e07688" shape-rendering="crispEdges"/>
+      <rect x="358" y="488.3" width="8.4" height="20.3" fill="#dd758d" shape-rendering="crispEdges"/>
+      <rect x="366.4" y="488.3" width="8.4" height="20.3" fill="#d97491" shape-rendering="crispEdges"/>
+      <rect x="374.8" y="488.3" width="8.4" height="20.3" fill="#d67495" shape-rendering="crispEdges"/>
+      <rect x="383.2" y="488.3" width="8.4" height="20.3" fill="#d37399" shape-rendering="crispEdges"/>
+      <rect x="391.6" y="488.3" width="8.4" height="20.3" fill="#cf729d" shape-rendering="crispEdges"/>
+      <rect x="400" y="488.3" width="8.4" height="20.3" fill="#cc71a1" shape-rendering="crispEdges"/>
+      <rect x="408.4" y="488.3" width="8.4" height="20.3" fill="#c970a5" shape-rendering="crispEdges"/>
+      <rect x="416.8" y="488.3" width="8.4" height="20.3" fill="#c56fa9" shape-rendering="crispEdges"/>
+      <rect x="425.2" y="488.3" width="8.4" height="20.3" fill="#c26ead" shape-rendering="crispEdges"/>
+      <rect x="433.6" y="488.3" width="8.4" height="20.3" fill="#bf6cb0" shape-rendering="crispEdges"/>
+      <rect x="442" y="488.3" width="8.4" height="20.3" fill="#bc6bb4" shape-rendering="crispEdges"/>
+      <rect x="450.4" y="488.3" width="8.4" height="20.3" fill="#b96ab7" shape-rendering="crispEdges"/>
+      <rect x="458.8" y="488.3" width="8.4" height="20.3" fill="#b568bb" shape-rendering="crispEdges"/>
+      <rect x="467.2" y="488.3" width="8.4" height="20.3" fill="#b267be" shape-rendering="crispEdges"/>
+      <rect x="475.6" y="488.3" width="8.4" height="20.3" fill="#af65c2" shape-rendering="crispEdges"/>
+      <rect x="484" y="488.3" width="8.4" height="20.3" fill="#ac64c5" shape-rendering="crispEdges"/>
+      <rect x="492.4" y="488.3" width="8.4" height="20.3" fill="#a962c9" shape-rendering="crispEdges"/>
+      <rect x="500.8" y="488.3" width="8.4" height="20.3" fill="#a660cc" shape-rendering="crispEdges"/>
+      <rect x="509.2" y="488.3" width="8.4" height="20.3" fill="#a35ecf" shape-rendering="crispEdges"/>
+      <rect x="517.6" y="488.3" width="8.4" height="20.3" fill="#a05cd3" shape-rendering="crispEdges"/>
+      <rect x="526" y="488.3" width="8.4" height="20.3" fill="#9d5ad6" shape-rendering="crispEdges"/>
+      <rect x="534.4" y="488.3" width="8.4" height="20.3" fill="#9a58d9" shape-rendering="crispEdges"/>
+      <rect x="542.8" y="488.3" width="8.4" height="20.3" fill="#9855dd" shape-rendering="crispEdges"/>
+      <rect x="551.2" y="488.3" width="8.4" height="20.3" fill="#9553e0" shape-rendering="crispEdges"/>
+      <rect x="559.6" y="488.3" width="8.4" height="20.3" fill="#9250e3" shape-rendering="crispEdges"/>
+      <rect x="568" y="488.3" width="8.4" height="20.3" fill="#8f4de6" shape-rendering="crispEdges"/>
+      <rect x="576.4" y="488.3" width="8.4" height="20.3" fill="#8d4ae9" shape-rendering="crispEdges"/>
+      <rect x="584.8" y="488.3" width="8.4" height="20.3" fill="#8a47ec" shape-rendering="crispEdges"/>
+      <rect x="593.2" y="488.3" width="8.4" height="20.3" fill="#8843f0" shape-rendering="crispEdges"/>
+      <rect x="601.6" y="488.3" width="8.4" height="20.3" fill="#8540f3" shape-rendering="crispEdges"/>
+      <rect x="610" y="488.3" width="8.4" height="20.3" fill="#833bf6" shape-rendering="crispEdges"/>
+      <rect x="618.4" y="488.3" width="8.4" height="20.3" fill="#8037f9" shape-rendering="crispEdges"/>
+      <rect x="626.8" y="488.3" width="8.4" height="20.3" fill="#7e31fc" shape-rendering="crispEdges"/>
+      <rect x="635.2" y="488.3" width="8.4" height="20.3" fill="#7c2bff" shape-rendering="crispEdges"/>
+      <rect x="274" y="508.6" width="8.4" height="20.3" fill="#ff7a59" shape-rendering="crispEdges"/>
+      <rect x="282.4" y="508.6" width="8.4" height="20.3" fill="#fc7a5f" shape-rendering="crispEdges"/>
+      <rect x="290.8" y="508.6" width="8.4" height="20.3" fill="#f87965" shape-rendering="crispEdges"/>
+      <rect x="299.2" y="508.6" width="8.4" height="20.3" fill="#f5796b" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="508.6" width="8.4" height="20.3" fill="#f17970" shape-rendering="crispEdges"/>
+      <rect x="316" y="508.6" width="8.4" height="20.3" fill="#ee7876" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="508.6" width="8.4" height="20.3" fill="#ea787b" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="508.6" width="8.4" height="20.3" fill="#e7777f" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="508.6" width="8.4" height="20.3" fill="#e37784" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="508.6" width="8.4" height="20.3" fill="#e07688" shape-rendering="crispEdges"/>
+      <rect x="358" y="508.6" width="8.4" height="20.3" fill="#dd758d" shape-rendering="crispEdges"/>
+      <rect x="366.4" y="508.6" width="8.4" height="20.3" fill="#d97491" shape-rendering="crispEdges"/>
+      <rect x="374.8" y="508.6" width="8.4" height="20.3" fill="#d67495" shape-rendering="crispEdges"/>
+      <rect x="383.2" y="508.6" width="8.4" height="20.3" fill="#d37399" shape-rendering="crispEdges"/>
+      <rect x="391.6" y="508.6" width="8.4" height="20.3" fill="#cf729d" shape-rendering="crispEdges"/>
+      <rect x="400" y="508.6" width="8.4" height="20.3" fill="#cc71a1" shape-rendering="crispEdges"/>
+      <rect x="408.4" y="508.6" width="8.4" height="20.3" fill="#c970a5" shape-rendering="crispEdges"/>
+      <rect x="416.8" y="508.6" width="8.4" height="20.3" fill="#c56fa9" shape-rendering="crispEdges"/>
+      <rect x="425.2" y="508.6" width="8.4" height="20.3" fill="#c26ead" shape-rendering="crispEdges"/>
+      <rect x="433.6" y="508.6" width="8.4" height="20.3" fill="#bf6cb0" shape-rendering="crispEdges"/>
+      <rect x="442" y="508.6" width="8.4" height="20.3" fill="#bc6bb4" shape-rendering="crispEdges"/>
+      <rect x="450.4" y="508.6" width="8.4" height="20.3" fill="#b96ab7" shape-rendering="crispEdges"/>
+      <rect x="458.8" y="508.6" width="8.4" height="20.3" fill="#b568bb" shape-rendering="crispEdges"/>
+      <rect x="467.2" y="508.6" width="8.4" height="20.3" fill="#b267be" shape-rendering="crispEdges"/>
+      <rect x="475.6" y="508.6" width="8.4" height="20.3" fill="#af65c2" shape-rendering="crispEdges"/>
+      <rect x="484" y="508.6" width="8.4" height="20.3" fill="#ac64c5" shape-rendering="crispEdges"/>
+      <rect x="492.4" y="508.6" width="8.4" height="20.3" fill="#a962c9" shape-rendering="crispEdges"/>
+      <rect x="500.8" y="508.6" width="8.4" height="20.3" fill="#a660cc" shape-rendering="crispEdges"/>
+      <rect x="509.2" y="508.6" width="8.4" height="20.3" fill="#a35ecf" shape-rendering="crispEdges"/>
+      <rect x="517.6" y="508.6" width="8.4" height="20.3" fill="#a05cd3" shape-rendering="crispEdges"/>
+      <rect x="526" y="508.6" width="8.4" height="20.3" fill="#9d5ad6" shape-rendering="crispEdges"/>
+      <rect x="534.4" y="508.6" width="8.4" height="20.3" fill="#9a58d9" shape-rendering="crispEdges"/>
+      <rect x="542.8" y="508.6" width="8.4" height="20.3" fill="#9855dd" shape-rendering="crispEdges"/>
+      <rect x="551.2" y="508.6" width="8.4" height="20.3" fill="#9553e0" shape-rendering="crispEdges"/>
+      <rect x="559.6" y="508.6" width="8.4" height="20.3" fill="#9250e3" shape-rendering="crispEdges"/>
+      <rect x="568" y="508.6" width="8.4" height="20.3" fill="#8f4de6" shape-rendering="crispEdges"/>
+      <rect x="576.4" y="508.6" width="8.4" height="20.3" fill="#8d4ae9" shape-rendering="crispEdges"/>
+      <rect x="584.8" y="508.6" width="8.4" height="20.3" fill="#8a47ec" shape-rendering="crispEdges"/>
+      <rect x="593.2" y="508.6" width="8.4" height="20.3" fill="#8843f0" shape-rendering="crispEdges"/>
+      <rect x="601.6" y="508.6" width="8.4" height="20.3" fill="#8540f3" shape-rendering="crispEdges"/>
+      <rect x="610" y="508.6" width="8.4" height="20.3" fill="#833bf6" shape-rendering="crispEdges"/>
+      <rect x="618.4" y="508.6" width="8.4" height="20.3" fill="#8037f9" shape-rendering="crispEdges"/>
+      <rect x="626.8" y="508.6" width="8.4" height="20.3" fill="#7e31fc" shape-rendering="crispEdges"/>
+      <rect x="635.2" y="508.6" width="8.4" height="20.3" fill="#7c2bff" shape-rendering="crispEdges"/>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  the same ramp, handed to whatever renders next</tspan></text>
+      <text y="116.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.css()                   </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="307.6" fill="#767676">linear-gradient(90deg, #ff7a59 0%, #7c2bff 100%)</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.vertical.css()          </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="307.6" fill="#767676">linear-gradient(180deg, #ff7a59 0%, #7c2bff 100%)</tspan></text>
+      <text y="157.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.css({ angle: 45 })      </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="307.6" fill="#767676">linear-gradient(45deg, #ff7a59 0%, #7c2bff 100%)</tspan></text>
+      <text y="177.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand.css({ kind: &#39;radial&#39; }) </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="307.6" fill="#767676">radial-gradient(#ff7a59 0%, #7c2bff 100%)</tspan></text>
+      <text y="218.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  brand.svg({ id: &#39;hero&#39; })</tspan></text>
+      <text y="238.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">&lt;linearGradient id=&quot;hero&quot; x1=&quot;0%&quot; y1=&quot;0%&quot; x2=&quot;100%&quot; y2=&quot;0%&quot;&gt;</tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">    &lt;stop offset=&quot;0%&quot; stop-color=&quot;#ff7a59&quot;/&gt;</tspan></text>
+      <text y="279" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">    &lt;stop offset=&quot;100%&quot; stop-color=&quot;#7c2bff&quot;/&gt;</tspan></text>
+      <text y="299.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">  &lt;/linearGradient&gt;</tspan></text>
+      <text y="339.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  brand.svg({ id: &#39;hero&#39;, kind: &#39;radial&#39; })</tspan></text>
+      <text y="360.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">&lt;radialGradient id=&quot;hero&quot;&gt;</tspan></text>
+      <text y="380.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">    &lt;stop offset=&quot;0%&quot; stop-color=&quot;#ff7a59&quot;/&gt;</tspan></text>
+      <text y="400.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">    &lt;stop offset=&quot;100%&quot; stop-color=&quot;#7c2bff&quot;/&gt;</tspan></text>
+      <text y="421.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">  &lt;/radialGradient&gt;</tspan></text>
+      <text y="461.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  String(brand) parses back into the same gradient</tspan></text>
+      <text y="482" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">String(brand)             </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">gradient(#ff7a59 0%, #7c2bff 100%):horizontal:oklab</tspan></text>
+      <text y="502.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">brand                     </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan></text>
+      <text y="522.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">gradient(String(brand))   </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan></text>
+      <text y="542.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">identical: true</tspan></text>
+    </g>
+    <text y="603.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="623.2" fill="#767676">grfti + shellfie</tspan></text>
+  </g>
+</svg>

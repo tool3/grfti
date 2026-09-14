@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 632" width="846" height="632">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43b47"/>
+      <stop offset="50%" stop-color="#9b4a77"/>
+      <stop offset="100%" stop-color="#453a94"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="846" height="632" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="758" height="544" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="379" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — when it goes wrong</text>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  a typo gets a GrftiError with the nearest match attached</tspan></text>
+      <text y="96.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">the same suggestions the CLI prints, because it is the same parser</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> color(&#39;stealblue&#39;)</tspan></text>
+      <text y="157.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">Unknown color &quot;stealblue&quot;. Did you mean steelblue?</tspan></text>
+      <text y="197.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> color(&#39;#zzzzzz&#39;)</tspan></text>
+      <text y="218.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">Unknown color &quot;#zzzzzz&quot;.</tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> gradient(&#39;sunsett&#39;)</tspan></text>
+      <text y="279" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">Unknown color &quot;sunsett&quot;.</tspan></text>
+      <text y="319.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> gradient(&#39;pink, cyan:vertcal&#39;)</tspan></text>
+      <text y="339.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">Unknown gradient flag &quot;vertcal&quot; in &quot;pink, cyan:vertcal&quot;. Did you mean vertical?</tspan></text>
+      <text y="380.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> gradient(&#39;pink, cyan:oklabb&#39;)</tspan></text>
+      <text y="400.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">Unknown gradient flag &quot;oklabb&quot; in &quot;pink, cyan:oklabb&quot;. Did you mean oklab, oklch?</tspan></text>
+      <text y="441.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#ff6363">✗</tspan><tspan x="47.2" fill="#c9d1d9"> gradient(&#39;&#39;)</tspan></text>
+      <text y="461.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">    </tspan><tspan x="55.6" fill="#767676">A gradient needs at least one color.</tspan></text>
+    </g>
+    <text y="522" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="640" fill="#767676">grfti + shellfie</tspan></text>
+  </g>
+</svg>

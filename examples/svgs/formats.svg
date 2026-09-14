@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795.6 530.5" width="795.6" height="530.5">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8ec7fb"/>
+      <stop offset="50%" stop-color="#548dd3"/>
+      <stop offset="100%" stop-color="#1c55aa"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="795.6" height="530.5" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="707.6" height="442.5" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="353.8" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — color input formats</text>
+    </g>
+    <g class="glyphs">
+      <rect x="307.6" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="122.9" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="316" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="143.2" width="8.4" height="20.3" fill="#3388bb" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="163.5" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="183.8" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="204.1" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="224.4" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="244.7" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="265" width="8.4" height="20.3" fill="#3e7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="285.3" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="316" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="305.6" width="8.4" height="20.3" fill="#5f87af" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="316" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="325.9" width="8.4" height="20.3" fill="#4682b4" shape-rendering="crispEdges"/>
+      <rect x="307.6" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="316" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="324.4" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="332.8" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="341.2" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+      <rect x="349.6" y="346.2" width="8.4" height="20.3" fill="#3d7fb3" shape-rendering="crispEdges"/>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  every input syntax grfti accepts</tspan></text>
+      <text y="96.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">most of these land on exactly #3d7fb3; a palette index and a name land nearby</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#3d7fb3                       </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">six-digit hex</tspan></text>
+      <text y="157.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#38b                          </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3388bb   </tspan><tspan x="458.8" fill="#767676">three-digit hex</tspan></text>
+      <text y="177.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#3d7fb3cc                     </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3cc </tspan><tspan x="458.8" fill="#767676">hex with alpha</tspan></text>
+      <text y="197.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">rgb(61 127 179)               </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">css rgb, space separated</tspan></text>
+      <text y="218.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">rgba(61, 127, 179, 0.8)       </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3cc </tspan><tspan x="458.8" fill="#767676">css rgba, comma separated</tspan></text>
+      <text y="238.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">hsl(206.4 49.2% 47.1%)        </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">css hsl</tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">hsv(206.4 65.9% 70.2%)        </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">hsv</tspan></text>
+      <text y="279" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">oklab(0.577 -0.044 -0.095)    </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3e7fb3   </tspan><tspan x="458.8" fill="#767676">oklab</tspan></text>
+      <text y="299.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">oklch(0.577 0.105 244.9)      </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">oklch</tspan></text>
+      <text y="319.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">ansi256(67)                   </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#5f87af   </tspan><tspan x="458.8" fill="#767676">256-color palette index</tspan></text>
+      <text y="339.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">steelblue                     </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#4682b4   </tspan><tspan x="458.8" fill="#767676">a css color name</tspan></text>
+      <text y="360.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">\x1b[38;2;61;127;179m         </tspan><tspan x="290.8" fill="#c9d1d9">  </tspan><tspan x="358" fill="#c9d1d9">  </tspan><tspan x="374.8" fill="#767676">#3d7fb3   </tspan><tspan x="458.8" fill="#767676">a raw ansi escape sequence</tspan></text>
+    </g>
+    <text y="420.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="589.6" fill="#767676">grfti + shellfie</tspan></text>
+  </g>
+</svg>

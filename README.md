@@ -13,6 +13,16 @@ color('pink')('just this color');
 color('#3d7fb3').lighten(0.2).hex;
 ```
 
+<p align="center">
+  <a href="./examples/gradients/multiline.ts">
+    <img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/multiline.svg" width="620" alt="a banner painted four ways">
+  </a>
+</p>
+
+Everything below is a picture of a real terminal buffer — grfti painted it, and
+[shellfie](https://github.com/tool3/shellfie) wrote it out as SVG. Each one links to the
+script that made it.
+
 ## Install
 
 ```sh
@@ -62,6 +72,8 @@ gradient('red 0%, yellow 25%, green 100%');        // explicit stops
 gradient('linear-gradient(135deg, #ff7a59, #7c2bff)'); // pasted from CSS
 ```
 
+<a href="./examples/gradients/dsl.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/dsl.svg" width="720" alt="dsl"></a>
+
 | Flags | |
 | --- | --- |
 | Direction | `horizontal` `h` `row`, `vertical` `v` `column`, `diagonal` `diag` `d` |
@@ -74,6 +86,10 @@ gradient('linear-gradient(135deg, #ff7a59, #7c2bff)'); // pasted from CSS
 Colors can be a CSS name, `#rgb` / `#rgba` / `#rrggbb` / `#rrggbbaa`, `rgb()` / `rgba()`,
 `hsl()` / `hsla()`, `hsv()`, `oklab()`, `oklch()`, `ansi256(196)`, or a raw ANSI escape
 sequence. An unknown color or flag throws a `GrftiError` that suggests the nearest match.
+
+<a href="./examples/gradients/stops.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/stops.svg" width="380" alt="stops"></a> <a href="./examples/gradients/css-gradient.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/css-gradient.svg" width="380" alt="css-gradient"></a>
+
+<a href="./examples/colors/errors.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/errors.svg" width="720" alt="errors"></a>
 
 ## Gradients
 
@@ -93,6 +109,10 @@ brand.depth('ansi256')(banner);   // pin the color depth
 gradient.vertical('#ff7a59', '#7c2bff')(banner); // or set direction up front
 ```
 
+<a href="./examples/gradients/directions.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/directions.svg" width="380" alt="directions"></a> <a href="./examples/gradients/chaining.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/chaining.svg" width="380" alt="chaining"></a>
+
+<a href="./examples/gradients/background.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/background.svg" width="720" alt="background"></a>
+
 Multi-line input is handled without asking. Each line is painted across the width of the
 widest line, so columns line up — ASCII art and figlet banners come out straight.
 
@@ -103,6 +123,9 @@ gradient.atlas(`
 |___||___||___|
 `);
 ```
+
+The banner at the top of this page is exactly that, painted four ways —
+[`examples/gradients/multiline.ts`](./examples/gradients/multiline.ts).
 
 Grapheme clusters stay whole (emoji and combining marks are never split), existing ANSI
 escapes in the input pass through untouched, and runs of identical color share one escape.
@@ -118,6 +141,8 @@ brand.stops;                             // [{ color, position }, ...]
 brand.colors;                            // just the colors
 ```
 
+<a href="./examples/gradients/sampling.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/sampling.svg" width="720" alt="sampling"></a>
+
 That is what makes it shareable across renderers — a chart colors its bars with
 `sample(bars.length)`, an SVG writer asks for `svg()`, a web preview asks for `css()`.
 
@@ -130,6 +155,8 @@ String(brand);                  // 'gradient(#ff7a59 0%, #7c2bff 100%):horizonta
 ```
 
 `String(gradient)` round-trips: the output parses back into an equivalent gradient.
+
+<a href="./examples/gradients/handoff.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/handoff.svg" width="720" alt="handoff"></a>
 
 ## Colors
 
@@ -163,6 +190,16 @@ accent.mix('pink', 0.25, 'hsl');
 accent.contrast('white');         // WCAG ratio
 ```
 
+<a href="./examples/colors/formats.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/formats.svg" width="380" alt="formats"></a> <a href="./examples/colors/inspect.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/inspect.svg" width="380" alt="inspect"></a>
+
+<a href="./examples/colors/adjust.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/adjust.svg" width="380" alt="adjust"></a> <a href="./examples/colors/mix.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/mix.svg" width="380" alt="mix"></a>
+
+<a href="./examples/colors/contrast.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/contrast.svg" width="720" alt="contrast"></a>
+
+Every name it answers to:
+
+<a href="./examples/colors/named.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/named.svg" width="720" alt="named"></a>
+
 Standalone helpers are exported too: `rgb()`, `hsl()`, `oklch()`, `parseRgb()`,
 `tryParseRgb()`, `mixRgb()`, `rgbToOklab()`, `rgbToAnsi256()`, `ansi256ToRgb()`, and the
 rest of the conversion set.
@@ -174,6 +211,8 @@ Depth is detected once per paint from `FORCE_COLOR`, `NO_COLOR`, `GRFTI_DEPTH`, 
 escapes; 256-color terminals get the nearest palette entry, chosen by comparing the color
 cube against the grayscale ramp; 16-color terminals get the nearest base color; everything
 else gets plain text. Pin it explicitly with `.depth('truecolor')` — worth doing in tests.
+
+<a href="./examples/gradients/depth.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/depth.svg" width="720" alt="depth"></a>
 
 ## Presets
 
@@ -187,6 +226,10 @@ gradient('sunset', 'ice');            // presets concatenate
 ```
 
 No preset name collides with a CSS color name, so the DSL is never ambiguous.
+
+<a href="./examples/gradients/presets.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/presets.svg" width="720" alt="presets"></a>
+
+<a href="./examples/gradients/concat.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/concat.svg" width="720" alt="concat"></a>
 
 | Preset | Colors |
 | --- | --- |
@@ -270,6 +313,28 @@ gradient('pink', 'cyan').at(0.5).hex;                  // '#bbe2e5'  oklab
 gradient('pink', 'cyan').space('rgb').at(0.5).hex;     // '#80e0e5'  rgb
 gradient('pink', 'cyan').space('oklch').at(0.5).hex;   // '#ccd1ff'  oklch
 ```
+
+<a href="./examples/gradients/spaces.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/spaces.svg" width="720" alt="spaces"></a>
+
+<a href="./examples/gradients/hue-spin.ts"><img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/hue-spin.svg" width="720" alt="hue-spin"></a>
+
+## Examples
+
+Every picture on this page is a script in [`examples/`](./examples), and every one of them
+runs:
+
+```sh
+npm run examples                     # render all 21
+npx tsx examples/gradients/spaces.ts # or just one
+```
+
+`█` is the widest thing a terminal can paint, so a run of them is the closest a text grid
+gets to a swatch — every ramp above is one call, `gradient('sunset')('█'.repeat(40))`, with
+the terminal filling each cell with a slightly different 24-bit color. Multi-line blocks are
+how `vertical` and `diagonal` become visible at all.
+
+[`gradients/`](./examples/gradients) holds 14 scripts and [`colors/`](./examples/colors)
+seven; [examples/README.md](./examples/README.md) has the full table.
 
 ## CLI
 

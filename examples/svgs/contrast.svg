@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 930 591.4" width="930" height="591.4">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e0e0e0"/>
+      <stop offset="50%" stop-color="#888888"/>
+      <stop offset="100%" stop-color="#3a3a3a"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="930" height="591.4" fill="url(#bg-gradient)" rx="18" ry="18"/>
+  <g transform="translate(44, 44)">
+    <rect x="0" y="0" width="842" height="503.4" fill="#1e1e1e" rx="10" ry="10"/>
+    <g class="title-bar">
+      <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="56" cy="20" r="6" fill="#27c93f"/>
+    <text x="421" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — contrast and legibility</text>
+    </g>
+    <g class="backgrounds">
+      <rect x="156.4" y="122.9" width="109.2" height="20.3" fill="#3d7fb3"/>
+      <rect x="274" y="122.9" width="33.6" height="20.3" fill="#3d7fb3"/>
+      <rect x="156.4" y="143.2" width="109.2" height="20.3" fill="#ff7a59"/>
+      <rect x="274" y="143.2" width="33.6" height="20.3" fill="#ff7a59"/>
+      <rect x="156.4" y="163.5" width="109.2" height="20.3" fill="#7c2bff"/>
+      <rect x="274" y="163.5" width="33.6" height="20.3" fill="#7c2bff"/>
+      <rect x="156.4" y="183.8" width="109.2" height="20.3" fill="#fcee0a"/>
+      <rect x="274" y="183.8" width="33.6" height="20.3" fill="#fcee0a"/>
+      <rect x="156.4" y="204.1" width="109.2" height="20.3" fill="#05ffa1"/>
+      <rect x="274" y="204.1" width="33.6" height="20.3" fill="#05ffa1"/>
+      <rect x="156.4" y="224.4" width="109.2" height="20.3" fill="#1a1a2e"/>
+      <rect x="274" y="224.4" width="33.6" height="20.3" fill="#1a1a2e"/>
+      <rect x="156.4" y="244.7" width="109.2" height="20.3" fill="#708090"/>
+      <rect x="274" y="244.7" width="33.6" height="20.3" fill="#708090"/>
+      <rect x="156.4" y="265" width="109.2" height="20.3" fill="#ffefd5"/>
+      <rect x="274" y="265" width="33.6" height="20.3" fill="#ffefd5"/>
+    </g>
+    <g class="glyphs">
+      <rect x="173.2" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="181.6" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="190" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="198.4" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="206.8" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="215.2" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="223.6" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="232" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="240.4" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="248.8" y="325.9" width="8.4" height="20.3" fill="#5ee7df" shape-rendering="crispEdges"/>
+      <rect x="173.2" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="181.6" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="190" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="198.4" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="206.8" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="215.2" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="223.6" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="232" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="240.4" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="248.8" y="346.2" width="8.4" height="20.3" fill="#33c6bf" shape-rendering="crispEdges"/>
+      <rect x="173.2" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="181.6" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="190" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="198.4" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="206.8" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="215.2" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="223.6" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="232" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="240.4" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="248.8" y="366.5" width="8.4" height="20.3" fill="#00a59e" shape-rendering="crispEdges"/>
+      <rect x="173.2" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="181.6" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="190" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="198.4" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="206.8" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="215.2" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="223.6" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="232" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="240.4" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="248.8" y="386.8" width="8.4" height="20.3" fill="#00837e" shape-rendering="crispEdges"/>
+      <rect x="173.2" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="181.6" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="190" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="198.4" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="206.8" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="215.2" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="223.6" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="232" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="240.4" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+      <rect x="248.8" y="407.1" width="8.4" height="20.3" fill="#00635f" shape-rendering="crispEdges"/>
+    </g>
+    <g class="text">
+      <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  WCAG contrast ratios, straight off the color</tspan></text>
+      <text y="96.3" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">isDark picks the readable foreground; contrast() grades the pair</tspan></text>
+      <text y="136.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#3d7fb3     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #3d7fb3     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white   4.3:1 AA large</tspan><tspan x="500.8" fill="#767676">  black  4.89:1 AA      </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="157.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#ff7a59     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #ff7a59     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  2.57:1 fail    </tspan><tspan x="500.8" fill="#767676">  black  8.18:1 AAA     </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="177.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#7c2bff     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #7c2bff     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#ffffff"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  5.76:1 AA      </tspan><tspan x="500.8" fill="#767676">  black  3.65:1 AA large</tspan><tspan x="702.4" fill="#767676">  isDark true </tspan></text>
+      <text y="197.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#fcee0a     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #fcee0a     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  1.21:1 fail    </tspan><tspan x="500.8" fill="#767676">  black 17.37:1 AAA     </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="218.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#05ffa1     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #05ffa1     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  1.33:1 fail    </tspan><tspan x="500.8" fill="#767676">  black 15.83:1 AAA     </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="238.4" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">#1a1a2e     </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> #1a1a2e     </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#ffffff"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white 17.06:1 AAA     </tspan><tspan x="500.8" fill="#767676">  black  1.23:1 fail    </tspan><tspan x="702.4" fill="#767676">  isDark true </tspan></text>
+      <text y="258.7" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">slategray   </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> slategray   </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  4.05:1 AA large</tspan><tspan x="500.8" fill="#767676">  black  5.18:1 AA      </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="279" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">papayawhip  </tspan><tspan x="139.6" fill="#c9d1d9">  </tspan><tspan x="156.4" fill="#c9d1d9"> papayawhip  </tspan><tspan x="265.6" fill="#c9d1d9"> </tspan><tspan x="274" fill="#000000"> Aa </tspan><tspan x="307.6" fill="#c9d1d9"> </tspan><tspan x="316" fill="#767676">white  1.13:1 fail    </tspan><tspan x="500.8" fill="#767676">  black 18.56:1 AAA     </tspan><tspan x="702.4" fill="#767676">  isDark false</tspan></text>
+      <text y="319.6" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  darkening until a color passes AA on white</tspan></text>
+      <text y="339.9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">darken(0)     </tspan><tspan x="156.4" fill="#c9d1d9">  </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">#5ee7df</tspan><tspan x="332.8" fill="#c9d1d9">  </tspan><tspan x="349.6" fill="#767676">  1.5:1  fail    </tspan></text>
+      <text y="360.2" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">darken(0.1)   </tspan><tspan x="156.4" fill="#c9d1d9">  </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">#33c6bf</tspan><tspan x="332.8" fill="#c9d1d9">  </tspan><tspan x="349.6" fill="#767676"> 2.11:1  fail    </tspan></text>
+      <text y="380.5" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">darken(0.2)   </tspan><tspan x="156.4" fill="#c9d1d9">  </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">#00a59e</tspan><tspan x="332.8" fill="#c9d1d9">  </tspan><tspan x="349.6" fill="#767676"> 3.05:1  AA large</tspan></text>
+      <text y="400.8" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">darken(0.3)   </tspan><tspan x="156.4" fill="#c9d1d9">  </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">#00837e</tspan><tspan x="332.8" fill="#c9d1d9">  </tspan><tspan x="349.6" fill="#767676"> 4.62:1  AA      </tspan></text>
+      <text y="421.1" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#c9d1d9">  </tspan><tspan x="38.8" fill="#767676">darken(0.4)   </tspan><tspan x="156.4" fill="#c9d1d9">  </tspan><tspan x="257.2" fill="#c9d1d9">  </tspan><tspan x="274" fill="#767676">#00635f</tspan><tspan x="332.8" fill="#c9d1d9">  </tspan><tspan x="349.6" fill="#767676"> 7.12:1  AAA     </tspan></text>
+    </g>
+    <text y="481.40000000000003" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="10" xml:space="preserve"><tspan x="724" fill="#767676">grfti + shellfie</tspan></text>
+  </g>
+</svg>
