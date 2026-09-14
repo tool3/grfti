@@ -57,7 +57,7 @@ export const save = (name: string, example: Example): void => {
   const svg = shellfie(example.lines.join('\n'), {
     template: 'macos',
     theme: example.theme ?? themes.dark,
-    title: `grfti — ${example.title}`,
+    title: example.title,
     language: false,
     fontSize: 14,
     lineHeight: 1.45,

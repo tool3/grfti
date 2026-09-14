@@ -13,7 +13,7 @@
       <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
     <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
     <circle cx="56" cy="20" r="6" fill="#27c93f"/>
-    <text x="379" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — when it goes wrong</text>
+    <text x="379" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">when it goes wrong</text>
     </g>
     <g class="text">
       <text y="76" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="14" xml:space="preserve"><tspan x="22" fill="#f0f6fc" font-weight="bold">  a typo gets a GrftiError with the nearest match attached</tspan></text>

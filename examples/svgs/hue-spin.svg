@@ -13,7 +13,7 @@
       <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
     <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
     <circle cx="56" cy="20" r="6" fill="#27c93f"/>
-    <text x="328.6" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — hue spin</text>
+    <text x="328.6" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">hue spin</text>
     </g>
     <g class="glyphs">
       <rect x="173.2" y="122.9" width="8.4" height="20.3" fill="#e63946" shape-rendering="crispEdges"/>

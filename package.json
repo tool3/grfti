@@ -28,7 +28,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "examples": "tsx examples/run-all.ts",
-    "prepublishOnly": "npm run typecheck && npm test && npm run build"
+    "prepublishOnly": "npm run typecheck && npm test && npm run build",
+    "example": "tsx"
   },
   "keywords": [
     "gradient",

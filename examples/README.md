@@ -6,13 +6,24 @@ which writes it out as an SVG — so the pictures below are the actual escape se
 grfti produced, not screenshots.
 
 ```bash
-npm run examples                     # render all 21
-npx tsx examples/gradients/spaces.ts # or just one
+npm run examples                              # render all 21
+npm run example examples/gradients/spaces.ts  # or just one
+npx tsx examples/gradients/spaces.ts          # same thing, spelled out
 ```
 
 Every example is TypeScript and runs against `src/`, so what you see is your working copy.
-Use `tsx` (or any loader that resolves extensionless imports) — grfti's sources carry no
-file extensions in their internal imports, which native type stripping insists on.
+
+They need `tsx` (already a devDependency), or any other loader that resolves extensionless
+imports. Plain `node examples/gradients/spaces.ts` does **not** work:
+
+```
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '…/grfti/src/index'
+```
+
+That is grfti's own rule showing through — its sources carry no file extensions in their
+internal imports, and Node's native type stripping insists on exact specifiers. `tsup`
+resolves them at build time; `tsx` resolves them here. `ts-node` cannot, for the reason the
+main README gives.
 
 Each script builds a few lines of terminal output and saves one SVG into `svgs/`:
 

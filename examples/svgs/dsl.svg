@@ -13,7 +13,7 @@
       <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
     <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
     <circle cx="56" cy="20" r="6" fill="#27c93f"/>
-    <text x="341.2" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — the string dsl</text>
+    <text x="341.2" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">the string dsl</text>
     </g>
     <g class="glyphs">
       <rect x="425.2" y="122.9" width="8.4" height="20.3" fill="#ffc0cb" shape-rendering="crispEdges"/>

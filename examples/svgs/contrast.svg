@@ -13,7 +13,7 @@
       <circle cx="16" cy="20" r="6" fill="#ff5f56"/>
     <circle cx="36" cy="20" r="6" fill="#ffbd2e"/>
     <circle cx="56" cy="20" r="6" fill="#27c93f"/>
-    <text x="421" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">grfti — contrast and legibility</text>
+    <text x="421" y="24.67" fill="#c9d1d9" font-family="'SF Mono', 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', 'Courier New', monospace" font-size="12" text-anchor="middle" opacity="0.8">contrast and legibility</text>
     </g>
     <g class="backgrounds">
       <rect x="156.4" y="122.9" width="109.2" height="20.3" fill="#3d7fb3"/>

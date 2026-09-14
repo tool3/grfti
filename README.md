@@ -1,6 +1,12 @@
 # grfti
 
-Spray color and gradients across your terminal. TypeScript-native, zero dependencies, perceptually smooth.
+Spray color and gradients across your terminal. TypeScript-native, zero dependencies, perceptually smooth color engine.
+
+<p align="center">
+  <a href="./examples/gradients/intro.ts">
+    <img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/intro.svg" width="620" alt="grfti intro svg">
+  </a>
+</p>
 
 ```ts
 import { gradient, color } from 'grfti';
@@ -12,12 +18,6 @@ gradient('gradient(green, yellow):reverse:vertical')(banner);
 color('pink')('just this color');
 color('#3d7fb3').lighten(0.2).hex;
 ```
-
-<p align="center">
-  <a href="./examples/gradients/multiline.ts">
-    <img src="https://raw.githubusercontent.com/tool3/grfti/master/examples/svgs/multiline.svg" width="620" alt="a banner painted four ways">
-  </a>
-</p>
 
 Everything below is a picture of a real terminal buffer — grfti painted it, and
 [shellfie](https://github.com/tool3/shellfie) wrote it out as SVG. Each one links to the
@@ -324,9 +324,13 @@ Every picture on this page is a script in [`examples/`](./examples), and every o
 runs:
 
 ```sh
-npm run examples                     # render all 21
-npx tsx examples/gradients/spaces.ts # or just one
+npm run examples                              # render all 21
+npm run example examples/gradients/spaces.ts  # or just one
 ```
+
+They run through `tsx`, which is a devDependency — `node examples/…​.ts` on its own fails
+with `ERR_MODULE_NOT_FOUND … /src/index`, because grfti's sources carry no file extensions
+in their internal imports and native type stripping insists on them.
 
 `█` is the widest thing a terminal can paint, so a run of them is the closest a text grid
 gets to a swatch — every ramp above is one call, `gradient('sunset')('█'.repeat(40))`, with
@@ -354,11 +358,33 @@ internal imports. `tsup` resolves them at build time and emits ESM, CJS and decl
 npm run typecheck   # tsc, noEmit — it can never scatter .js next to sources
 npm test            # vitest, runs the .ts directly
 npm run build       # dist/index.js (esm), dist/index.cjs, dist/index.d.ts, dist/index.d.cts
+npm run examples    # tsx, renders examples/svgs
 ```
 
-Because the package is `"type": "module"`, `ts-node` cannot run these sources directly —
-its ESM loader does no extension resolution. Use `vitest` for anything you want to execute
-against the source. The CLI in `grfti-cli` is CommonJS and does run under `ts-node`.
+### Running the sources
+
+Anything that executes `src/` needs a loader that resolves extensionless imports. `tsup`
+does it at build time, `vitest` does it in tests, and `tsx` does it everywhere else:
+
+```sh
+npx tsx examples/gradients/spaces.ts
+npx tsx -e "import { gradient } from './src/index'; console.log(gradient('sunset')('hi'))"
+```
+
+`node` and `ts-node` both fail, with the same error and for the same reason:
+
+```
+Error [ERR_MODULE_NOT_FOUND]: Cannot find module '…/grfti/src/index'
+```
+
+The package is `"type": "module"`, so a relative import is resolved as a URL and must name
+a real file. `src/index.ts` imports `'./gradient/create'`, not `'./gradient/create.ts'` —
+Node's native type stripping requires the exact specifier, and `ts-node`'s ESM loader does
+no extension resolution either. Neither has a flag for it; the old
+`--experimental-specifier-resolution=node` was removed in Node 20. Reach for `tsx`.
+
+The CLI in `grfti-cli` is CommonJS, so it does run under `ts-node` — that is what
+`npm start` there uses.
 
 ## License
 
