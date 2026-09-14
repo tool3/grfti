@@ -50,6 +50,7 @@ export const normalizeStops = (raw: readonly RawStop[]): readonly Stop[] => {
     .map((stop, index) => ({
       color: toColor(stop.color),
       position: clamp(spread[index] ?? 0),
+      ...(typeof stop.color === 'string' ? { source: stop.color } : {}),
     }))
     .sort((a, b) => a.position - b.position);
 };

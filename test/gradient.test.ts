@@ -149,6 +149,13 @@ describe('chaining', () => {
     expect(value.reverse.reverse.colors.map((c) => c.hex)).toEqual(value.colors.map((c) => c.hex));
   });
 
+  test('keeps the written source through reversal, for theme-aware consumers', () => {
+    expect(gradient('green, yellow').stops.map((s) => s.source)).toEqual(['green', 'yellow']);
+    expect(gradient('green, yellow:reverse').stops.map((s) => s.source)).toEqual(['yellow', 'green']);
+    expect(gradient('sunset').stops.every((s) => s.source !== undefined)).toBe(true);
+    expect(gradient([{ r: 255, g: 0, b: 0, alpha: 1 }, 'blue']).stops[0]?.source).toBeUndefined();
+  });
+
   test('reverse mirrors uneven stop positions', () => {
     expect(gradient('red 0%, yellow 25%, green 100%').reverse.stops.map((s) => s.position)).toEqual([
       0, 0.75, 1,

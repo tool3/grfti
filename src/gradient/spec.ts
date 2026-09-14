@@ -18,4 +18,4 @@ export const DEFAULT_SPEC = {
 } as const satisfies Omit<GradientSpec, 'stops'>;
 
 export const reverseStops = (stops: readonly Stop[]): readonly Stop[] =>
-  stops.map(({ color, position }) => ({ color, position: 1 - position })).reverse();
+  stops.map((stop) => ({ ...stop, position: 1 - stop.position })).reverse();

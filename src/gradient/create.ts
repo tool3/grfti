@@ -101,7 +101,11 @@ const expandPresets = (parsed: ParsedGradient): ParsedGradient => {
 const resolveSource = (source: GradientSource): ParsedGradient => {
   if (isGradient(source)) {
     return {
-      stops: source.stops.map(({ color, position }) => ({ color, position })),
+      stops: source.stops.map(({ color, position, source: written }) => ({
+        color,
+        position,
+        ...(written === undefined ? {} : { source: written }),
+      })),
       flags: { direction: source.direction },
     };
   }

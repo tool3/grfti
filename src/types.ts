@@ -82,6 +82,8 @@ export interface Color {
 export interface Stop {
   readonly color: Color;
   readonly position: number;
+  /** The colour exactly as written, for consumers that resolve names themselves. */
+  readonly source?: string | undefined;
 }
 
 export interface Gradient {
