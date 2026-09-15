@@ -1,4 +1,4 @@
-import { defineConfig } from 'tsup';
+import { defineConfig } from 'tsdown';
 
 export default defineConfig({
   entry: ['src/index.ts'],
@@ -8,5 +8,8 @@ export default defineConfig({
   sourcemap: true,
   target: 'es2022',
   outDir: 'dist',
-  outExtension: ({ format }) => ({ js: format === 'esm' ? '.js' : '.cjs' }),
+  outExtensions: ({ format }) => ({
+    js: format === 'es' ? '.js' : '.cjs',
+    dts: format === 'es' ? '.d.ts' : '.d.cts',
+  }),
 });
